@@ -1,4 +1,4 @@
-/// <reference path="typings/main.d.ts" />
+//// <reference path="typings/main.d.ts" />
 
 interface IAttrs extends ng.IAttributes {
   bindHtmlCompile: string;
